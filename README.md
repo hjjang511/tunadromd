@@ -1,6 +1,6 @@
 Bộ dữ liệu phần mềm độc hại Android của đại học Tezpur, còn được gọi là TUANDROMD, là một tập hợp các ứng dụng Android thường được sử dụng cho mục đích nghiên cứu trong lĩnh vực an ninh mạng. Các nhà nghiên cứu tại Đại học Tezpur ở Ấn Độ đã tạo ra một bộ dữ liệu có 4465 ứng dụng Android, bao gồm cả ứng dụng độc hại và lành tính. TUANDROMD, một công cụ phát hiện phần mềm độc hại, đã được sử dụng trong các nghiên cứu để đánh giá các kỹ thuật, phân tích các đặc điểm của phần mềm độc hại và hiểu hành vi của nó trên thiết bị Android
 
-Đánh giá kết quả
+**Đánh giá kết quả**
 | **Chỉ số**                         | **KNN** | **SVC** | **RF**  |
 |-----------------------------------|--------:|--------:|--------:|
 | Precision                         | 0.920   | 0.862   | 0.962   |
